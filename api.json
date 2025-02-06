@@ -60,5 +60,20 @@
 				}]
 			}
 		}
+	],
+	"Series" :[{
+	
+	"thumbnail": "https://imgur.com/vH2tkQt.png",
+		"id": "1",
+		"title": "TNT Séries HD",
+		"content": {
+				"videos": [{
+					"videoType": "HTTP",
+					"url": "http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/314",
+					"quality": "HD"
+				}]
+			}
+		}
+
 	]
 }
