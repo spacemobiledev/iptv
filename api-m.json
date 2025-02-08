@@ -1,12 +1,12 @@
 [
   {
-    "nome": "Canal 1",
-    "imagem": "https://exemplo.com/canal1.jpg",
-    "url": "https://exemplo.com/video1.mp4"
+    "nome": "SBT+ HD",
+    "imagem": "https://i.imgur.com/g47oQ4n.png",
+    "url": "https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_SIMULCAST_CTV/TLBkp.m3u8?ads.start=1"
   },
   {
-    "nome": "Canal 2",
-    "imagem": "https://exemplo.com/canal2.jpg",
-    "url": "https://exemplo.com/video2.mp4"
+    "nome": "Globo SP HD",
+    "imagem": "https://i.imgur.com/waZJG1M.png",
+    "url": "http://204.12.227.194:80/4/live.m3u8"
   }
 ]
