@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Canal 1",
+    "imagem": "https://exemplo.com/canal1.jpg",
+    "url": "https://exemplo.com/video1.mp4"
+  },
+  {
+    "nome": "Canal 2",
+    "imagem": "https://exemplo.com/canal2.jpg",
+    "url": "https://exemplo.com/video2.mp4"
+  }
+]
